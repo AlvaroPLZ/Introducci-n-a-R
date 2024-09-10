@@ -1,5 +1,5 @@
 ###### Class 2
-#### Author: Álvaro Pérez (Based on Nick C. Huntington-Klein notes)
+#### Author: Álvaro Pérez (Based on Romero Londoño's notes)
 #### Date: September 10, 2024
 
 rm(list=ls()) #delete everything in memory
