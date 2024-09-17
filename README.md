@@ -15,4 +15,4 @@ El curso consiste en una introducción al uso de R y R Studio para familiarizars
 
 ### Clase 03 
 - [Slides](https://github.com/AlvaroPLZ/Introduccion_a_R/blob/5909e2e04716c5782cd63c210d844a2abcb82603/PPT/Lecture_03___R.pdf)
-  
+- [R code](https://github.com/AlvaroPLZ/Introduccion_a_R/blob/5e7a71f95c8d42abe9168fe69e94277d6fa3539e/Script/L3_code.R)
